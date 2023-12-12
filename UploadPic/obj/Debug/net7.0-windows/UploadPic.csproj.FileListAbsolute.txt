@@ -1,0 +1,15 @@
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\bin\Debug\net7.0-windows\UploadPic.exe
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\bin\Debug\net7.0-windows\UploadPic.deps.json
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\bin\Debug\net7.0-windows\UploadPic.runtimeconfig.json
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\bin\Debug\net7.0-windows\UploadPic.dll
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\bin\Debug\net7.0-windows\UploadPic.pdb
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\obj\Debug\net7.0-windows\UploadPic.csproj.AssemblyReference.cache
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\obj\Debug\net7.0-windows\UploadPic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\obj\Debug\net7.0-windows\UploadPic.AssemblyInfoInputs.cache
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\obj\Debug\net7.0-windows\UploadPic.AssemblyInfo.cs
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\obj\Debug\net7.0-windows\UploadPic.csproj.CoreCompileInputs.cache
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\obj\Debug\net7.0-windows\UploadPic.dll
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\obj\Debug\net7.0-windows\refint\UploadPic.dll
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\obj\Debug\net7.0-windows\UploadPic.pdb
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\obj\Debug\net7.0-windows\UploadPic.genruntimeconfig.cache
+C:\Users\farshid\Desktop\NN_NumPicture\UploadPic\obj\Debug\net7.0-windows\ref\UploadPic.dll
