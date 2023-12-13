@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\farshid\\Desktop\\NN_NumPicture\\UploadPic\\UploadPic.csproj",
+      "projectUniqueName": "C:\\Users\\farshid\\Desktop\\Simple_NN\\UploadPic\\UploadPic.csproj",
       "projectName": "UploadPic",
-      "projectPath": "C:\\Users\\farshid\\Desktop\\NN_NumPicture\\UploadPic\\UploadPic.csproj",
+      "projectPath": "C:\\Users\\farshid\\Desktop\\Simple_NN\\UploadPic\\UploadPic.csproj",
       "packagesPath": "C:\\Users\\farshid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\farshid\\Desktop\\NN_NumPicture\\UploadPic\\obj\\",
+      "outputPath": "C:\\Users\\farshid\\Desktop\\Simple_NN\\UploadPic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\farshid\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -43,7 +43,7 @@ public partial class Form1 : Form
             p.Start();
 
             string output = p.StandardOutput.ReadToEnd();
-            // p.WaitForExit();
+            p.WaitForExit();
 
             string sample = "The predicted";
             int index = output.IndexOf(sample);

@@ -24,7 +24,7 @@ if len(sys.argv) < 2:
     sys.exit(1)
 
 picture_file = sys.argv[1]
-# picture_file = "C:\\Users\\farshid\\Desktop\\one.png"
+#picture_file = "C:\\Users\\farshid\\Desktop\\one.png"
 
 
 # Load the picture
@@ -43,10 +43,13 @@ normalized_image = reshaped_image / 255.0
 
 
 
+data_dir = os.path.dirname(__file__)
 
-x_train =  pd.read_csv('mnist_train.csv')
+x_train = pd.read_csv(os.path.join(data_dir, 'mnist_train.csv'))
 
-x_test =  pd.read_csv("mnist_test.csv")
+# x_train =  pd.read_csv('mnist_train.csv')
+x_test = pd.read_csv(os.path.join(data_dir, 'mnist_test.csv'))
+# x_test =  pd.read_csv("mnist_test.csv")
 y_train = x_train.iloc[:, 0]
 y_test = x_test.iloc[:, 0]
 x_train = x_train.drop(x_train.columns[0], axis=1)
